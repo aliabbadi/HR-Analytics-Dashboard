@@ -60,7 +60,7 @@ Performed in Power BI using Power Query:
 - **Slicers** → Department, Gender, Job Role, Education  
 
 ---
-![Dashboard Preview]("C:\Users\ALI\Desktop\HR Dashboard .png")
+![Dashboard Preview]("")
 
 ## 🪄 DAX Formulas (Examples)
 ```DAX
