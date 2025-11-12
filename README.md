@@ -1,12 +1,12 @@
-# 💼 HR Analytics Dashboard – Power BI Project
+#  HR Analytics Dashboard – Power BI Project
 
-## 📊 Project Overview
+##  Project Overview
 This project aims to analyze employee data to uncover insights about attrition, workforce demographics, job satisfaction, and other key HR metrics.  
 The goal is to help the HR department make data-driven decisions to reduce employee turnover and improve retention strategies.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Identify the main factors contributing to employee attrition.
 - Understand the distribution of employees by department, role, and experience level.
 - Compare attrition rates across genders, age groups, and job roles.
@@ -14,7 +14,7 @@ The goal is to help the HR department make data-driven decisions to reduce emplo
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 - Higher attrition was observed among **new employees (< 3 years)**.
 - **Sales and R&D** departments showed the highest turnover rates.
 - **Younger employees** and **lower job satisfaction scores** were correlated with higher attrition.
@@ -22,7 +22,7 @@ The goal is to help the HR department make data-driven decisions to reduce emplo
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 - **Power BI** → Data Cleaning, Modeling, DAX Measures, Visualization  
 - **Excel / CSV Dataset** → Data Source  
 - **DAX (Data Analysis Expressions)** → Custom measures and KPIs
@@ -44,14 +44,14 @@ Performed in Power BI using Power Query:
 
 ---
 
-## 📐 Data Model
+##  Data Model
 - Single table: `HR Data`
 - Relationships not required (denormalized dataset)
 - Measures created using DAX for flexible analysis
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 - **KPI Cards** → Total Employees, Employees Left, Attrition Rate  
 - **Bar Chart** → Attrition by Department  
 - **Pie Chart** → Attrition by Gender  
@@ -61,7 +61,7 @@ Performed in Power BI using Power Query:
 
 ---
 
-## 🪄 DAX Formulas (Examples)
+##  DAX Formulas (Examples)
 ```DAX
 -- Total Employees
 Total Employees = COUNTROWS('hr')
