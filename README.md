@@ -29,7 +29,7 @@ The goal is to help the HR department make data-driven decisions to reduce emplo
 
 ---
 
-## ⚙️ Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 Performed in Power BI using Power Query:
 - Removed null and duplicate records.
 - Standardized column names and data types.
