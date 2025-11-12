@@ -60,6 +60,7 @@ Performed in Power BI using Power Query:
 - **Slicers** → Department, Gender, Job Role, Education  
 
 ---
+[Download Dataset](https://github.com/aliabbadi/HR-Analytics-Dashboard/blob/main/hr.xlsx?raw=true)
 
 ##  DAX Formulas (Examples)
 ```DAX
